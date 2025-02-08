@@ -1,0 +1,7 @@
+![Alt Text](screenshots/1_append.png)
+![Alt Text](screenshots/2_display.png)
+![Alt Text](screenshots/3_insert_at_beginning.png)
+![Alt Text](screenshots/4_delete.png)
+![Alt Text](screenshots/5_reverse.png)
+![Alt Text](screenshots/6_search.png)
+![Alt Text](screenshots/7_exit.png)
